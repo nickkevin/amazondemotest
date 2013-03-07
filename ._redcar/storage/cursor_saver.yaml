@@ -3,9 +3,6 @@ cursor_positions:
   - :path: app/views/friends/edit.html.erb
     :cursor_offset: 0
     :timestamp: 2013-02-08 07:53:38 +05:30
-  - :path: app/views/friends/new.html.erb
-    :cursor_offset: 0
-    :timestamp: 2013-02-08 07:53:38 +05:30
   - :path: app/views/friends/_friend.html.erb
     :cursor_offset: 150
     :timestamp: 2013-03-07 19:05:04.687000 +05:30
@@ -21,4 +18,16 @@ cursor_positions:
   - :path: config/environments/production.rb
     :cursor_offset: 2580
     :timestamp: 2013-03-07 19:05:39.546000 +05:30
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2013-02-08 07:53:38 +05:30
+  - :path: app/views/friends/_form.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-02-08 07:53:38 +05:30
+  - :path: app/views/friends/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-02-08 07:53:38 +05:30
+  - :path: app/views/friends/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-02-08 07:53:38 +05:30
 files_to_retain: 0

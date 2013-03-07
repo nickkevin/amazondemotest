@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
 <h2><%= @friend.name %></h2>
-  <%= image_tag @friend.avatar.url %>
+  <%= image_tag @friend.avatar.url(:medium) %>
 
 <div class="show actions">
   <%= link_to 'Edit', edit_friend_path(@friend) %>
