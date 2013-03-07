@@ -15,4 +15,10 @@ cursor_positions:
   - :path: config/initializers/paper_clip.rb
     :cursor_offset: 139
     :timestamp: 2013-03-07 18:05:27.718000 +05:30
+  - :path: config/database.yml
+    :cursor_offset: 0
+    :timestamp: 2013-02-08 07:53:38 +05:30
+  - :path: config/environments/production.rb
+    :cursor_offset: 2580
+    :timestamp: 2013-03-07 19:05:39.546000 +05:30
 files_to_retain: 0

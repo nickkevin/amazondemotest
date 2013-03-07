@@ -9,5 +9,5 @@ class Friend < ActiveRecord::Base
   },
    :storage => :s3,
     :s3_credentials => "#{Rails.root}/config/s3.yml",
-    :path => "/images/:id/:style.:extension"
+    :path => "/avatar/:id/:style.:extension"
 end
