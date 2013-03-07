@@ -6,4 +6,7 @@ cursor_positions:
   - :path: app/views/friends/show.html.erb
     :cursor_offset: 0
     :timestamp: 2013-02-08 07:53:38 +05:30
+  - :path: app/views/friends/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-02-08 07:53:38 +05:30
 files_to_retain: 0
