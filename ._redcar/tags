@@ -1,4 +1,4 @@
-1362662217
+1362662750
 AddAvatarToFriends	C:/Sites/amazondemotest/db/migrate/20120802191046_add_avatar_to_friends.rb	class AddAvatarToFriends 
 Application	C:/Sites/amazondemotest/config/application.rb	  class Application 
 ApplicationController	C:/Sites/amazondemotest/app/controllers/application_controller.rb	class ApplicationController 
